@@ -1,0 +1,10 @@
+C:\Users\anonymous\Documents\C# OOP\Class Library\Exercice\Project\bin\Debug\Project.exe.config
+C:\Users\anonymous\Documents\C# OOP\Class Library\Exercice\Project\bin\Debug\Project.exe
+C:\Users\anonymous\Documents\C# OOP\Class Library\Exercice\Project\bin\Debug\Project.pdb
+C:\Users\anonymous\Documents\C# OOP\Class Library\Exercice\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\anonymous\Documents\C# OOP\Class Library\Exercice\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\anonymous\Documents\C# OOP\Class Library\Exercice\Project\obj\Debug\Project.exe
+C:\Users\anonymous\Documents\C# OOP\Class Library\Exercice\Project\obj\Debug\Project.pdb
+C:\Users\anonymous\Documents\C# OOP\Class Library\Exercice\Project\bin\Debug\Library.dll
+C:\Users\anonymous\Documents\C# OOP\Class Library\Exercice\Project\bin\Debug\Library.pdb
+C:\Users\anonymous\Documents\C# OOP\Class Library\Exercice\Project\obj\Debug\Project.csproj.Up2Date

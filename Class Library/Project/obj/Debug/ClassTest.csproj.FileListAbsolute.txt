@@ -1,0 +1,17 @@
+C:\Users\anonymous\Documents\C# OOP\Class Library\MyFirstClassLibrary\bin\Debug\MyFirstClassLibrary.exe.config
+C:\Users\anonymous\Documents\C# OOP\Class Library\MyFirstClassLibrary\bin\Debug\MyFirstClassLibrary.exe
+C:\Users\anonymous\Documents\C# OOP\Class Library\MyFirstClassLibrary\bin\Debug\MyFirstClassLibrary.pdb
+C:\Users\anonymous\Documents\C# OOP\Class Library\MyFirstClassLibrary\obj\Debug\ClassTest.csproj.AssemblyReference.cache
+C:\Users\anonymous\Documents\C# OOP\Class Library\MyFirstClassLibrary\obj\Debug\ClassTest.csproj.CoreCompileInputs.cache
+C:\Users\anonymous\Documents\C# OOP\Class Library\MyFirstClassLibrary\obj\Debug\MyFirstClassLibrary.exe
+C:\Users\anonymous\Documents\C# OOP\Class Library\MyFirstClassLibrary\obj\Debug\MyFirstClassLibrary.pdb
+C:\Users\anonymous\Documents\C# OOP\Class Library\Project\obj\Debug\ClassTest.csproj.AssemblyReference.cache
+C:\Users\anonymous\Documents\C# OOP\Class Library\Project\obj\Debug\ClassTest.csproj.CoreCompileInputs.cache
+C:\Users\anonymous\Documents\C# OOP\Class Library\Project\obj\Debug\MyFirstClassLibrary.exe
+C:\Users\anonymous\Documents\C# OOP\Class Library\Project\obj\Debug\MyFirstClassLibrary.pdb
+C:\Users\anonymous\Documents\C# OOP\Class Library\Project\bin\Debug\MyFirstClassLibrary.exe.config
+C:\Users\anonymous\Documents\C# OOP\Class Library\Project\bin\Debug\MyFirstClassLibrary.exe
+C:\Users\anonymous\Documents\C# OOP\Class Library\Project\bin\Debug\MyFirstClassLibrary.pdb
+C:\Users\anonymous\Documents\C# OOP\Class Library\Project\bin\Debug\MyFirstClassLibrary1.dll
+C:\Users\anonymous\Documents\C# OOP\Class Library\Project\bin\Debug\MyFirstClassLibrary1.pdb
+C:\Users\anonymous\Documents\C# OOP\Class Library\Project\obj\Debug\ClassTest.csproj.Up2Date

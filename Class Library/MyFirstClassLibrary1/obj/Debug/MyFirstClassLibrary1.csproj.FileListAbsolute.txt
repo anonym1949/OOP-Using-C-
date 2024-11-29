@@ -1,0 +1,6 @@
+C:\Users\anonymous\Documents\C# OOP\Class Library\MyFirstClassLibrary1\bin\Debug\MyFirstClassLibrary1.dll
+C:\Users\anonymous\Documents\C# OOP\Class Library\MyFirstClassLibrary1\bin\Debug\MyFirstClassLibrary1.pdb
+C:\Users\anonymous\Documents\C# OOP\Class Library\MyFirstClassLibrary1\obj\Debug\MyFirstClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\anonymous\Documents\C# OOP\Class Library\MyFirstClassLibrary1\obj\Debug\MyFirstClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\anonymous\Documents\C# OOP\Class Library\MyFirstClassLibrary1\obj\Debug\MyFirstClassLibrary1.dll
+C:\Users\anonymous\Documents\C# OOP\Class Library\MyFirstClassLibrary1\obj\Debug\MyFirstClassLibrary1.pdb
