@@ -1,0 +1,7 @@
+C:\Users\anonymous\Documents\C# OOP\Interface\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\anonymous\Documents\C# OOP\Interface\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\anonymous\Documents\C# OOP\Interface\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\anonymous\Documents\C# OOP\Interface\ConsoleApp2\obj\Debug\Exercice.csproj.AssemblyReference.cache
+C:\Users\anonymous\Documents\C# OOP\Interface\ConsoleApp2\obj\Debug\Exercice.csproj.CoreCompileInputs.cache
+C:\Users\anonymous\Documents\C# OOP\Interface\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\anonymous\Documents\C# OOP\Interface\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
