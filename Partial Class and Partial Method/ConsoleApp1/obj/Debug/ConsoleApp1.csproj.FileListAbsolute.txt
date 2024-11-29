@@ -1,0 +1,7 @@
+C:\Users\anonymous\Documents\C# OOP\Partial Class and Partial Method\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\anonymous\Documents\C# OOP\Partial Class and Partial Method\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\anonymous\Documents\C# OOP\Partial Class and Partial Method\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\anonymous\Documents\C# OOP\Partial Class and Partial Method\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\anonymous\Documents\C# OOP\Partial Class and Partial Method\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\anonymous\Documents\C# OOP\Partial Class and Partial Method\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\anonymous\Documents\C# OOP\Partial Class and Partial Method\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
