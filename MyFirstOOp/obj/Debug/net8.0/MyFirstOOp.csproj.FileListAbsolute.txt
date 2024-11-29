@@ -1,0 +1,14 @@
+C:\Users\anonymous\Documents\C# OOP\MyFirstOOp\bin\Debug\net8.0\MyFirstOOp.exe
+C:\Users\anonymous\Documents\C# OOP\MyFirstOOp\bin\Debug\net8.0\MyFirstOOp.deps.json
+C:\Users\anonymous\Documents\C# OOP\MyFirstOOp\bin\Debug\net8.0\MyFirstOOp.runtimeconfig.json
+C:\Users\anonymous\Documents\C# OOP\MyFirstOOp\bin\Debug\net8.0\MyFirstOOp.dll
+C:\Users\anonymous\Documents\C# OOP\MyFirstOOp\bin\Debug\net8.0\MyFirstOOp.pdb
+C:\Users\anonymous\Documents\C# OOP\MyFirstOOp\obj\Debug\net8.0\MyFirstOOp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anonymous\Documents\C# OOP\MyFirstOOp\obj\Debug\net8.0\MyFirstOOp.AssemblyInfoInputs.cache
+C:\Users\anonymous\Documents\C# OOP\MyFirstOOp\obj\Debug\net8.0\MyFirstOOp.AssemblyInfo.cs
+C:\Users\anonymous\Documents\C# OOP\MyFirstOOp\obj\Debug\net8.0\MyFirstOOp.csproj.CoreCompileInputs.cache
+C:\Users\anonymous\Documents\C# OOP\MyFirstOOp\obj\Debug\net8.0\MyFirstOOp.dll
+C:\Users\anonymous\Documents\C# OOP\MyFirstOOp\obj\Debug\net8.0\refint\MyFirstOOp.dll
+C:\Users\anonymous\Documents\C# OOP\MyFirstOOp\obj\Debug\net8.0\MyFirstOOp.pdb
+C:\Users\anonymous\Documents\C# OOP\MyFirstOOp\obj\Debug\net8.0\MyFirstOOp.genruntimeconfig.cache
+C:\Users\anonymous\Documents\C# OOP\MyFirstOOp\obj\Debug\net8.0\ref\MyFirstOOp.dll
